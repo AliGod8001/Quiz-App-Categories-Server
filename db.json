@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "mainCategory_id": 101,
+      "id": 201,
+      "creationDate": 1692078119357,
+      "modificationDate": null,
+      "title": "History"
+    },
+    {
+      "mainCategory_id": 101,
+      "id": 202,
+      "creationDate": 1692083252337,
+      "modificationDate": null,
+      "title": "Science and Technology"
+    },
+    {
+      "mainCategory_id": 102,
+      "id": 203,
+      "creationDate": 1692084730096,
+      "modificationDate": null,
+      "title": "Popular Sports"
+    },
+    {
+      "mainCategory_id": 102,
+      "id": 204,
+      "creationDate": 1692084730096,
+      "modificationDate": null,
+      "title": "Sports Legends"
+    }
+  ]
+}
